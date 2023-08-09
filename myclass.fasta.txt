@@ -1,0 +1,2 @@
+>R2345 A demo fasta file created 
+ATGRASATC
